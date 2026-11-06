@@ -5,6 +5,8 @@
 
 碌な最適化もされてないソフトですが、興味がある方はぜひ使ってみてください。
 
+[releasesから最新版をダウンロード](https://github.com/tsukinekoch/Nekoshuki-releases/releases)。
+
 # 月猫について
 個人でマイクラ鯖開発や、ソフト開発とかしてます。
 
