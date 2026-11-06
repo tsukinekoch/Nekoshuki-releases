@@ -3,7 +3,10 @@
 空白txtファイルを１つ開いた状態でだいたい２１０MBくらいメモリを消費します。  
 碌な最適化もされてないソフトですが、興味がある方はぜひ使ってみてください。  
 [releasesから最新版をダウンロード](https://github.com/tsukinekoch/Nekoshuki-releases/releases)。  
-
+# 動作環境
+300MBくらいメモリ必要です。  
+Windows11でしかテストしてません。  
+赦して。  
 # 月猫について
 個人でマイクラ鯖開発や、ソフト開発とかしてます。  
 一応[公式Discord鯖](https://discord.gg/S582fGZNhJ)もあります。  
